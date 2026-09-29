@@ -4,6 +4,25 @@
 An interactive **Power BI dashboard** designed to analyze talent, hiring, job applications, job demand, salary trends, and recruitment sources.
 
 This project transforms simulated LinkedIn-style recruitment data into meaningful business insights using **Power BI, DAX, data modeling, KPI analysis, and interactive visualizations**.
+## 📸 Dashboard Preview
+
+### LinkedIn Talent & Hiring Analytics Dashboard
+
+Click the image below to view the full-resolution dashboard:
+
+[![LinkedIn Talent & Hiring Analytics Dashboard](linkdin_dashboard_image.png)](https://github.com/Yashborawake/linkedin-talent-hiring-analytics-powerbi/blob/main/linkdin_dashboard_image.png)
+
+🔗 **[View Dashboard Image on GitHub](https://github.com/Yashborawake/linkedin-talent-hiring-analytics-powerbi/blob/main/linkdin_dashboard_image.png)**
+
+---
+
+## 🎥 Dashboard Video Demo
+
+Watch the complete dashboard interaction and visual walkthrough:
+
+🎬 **[Watch Dashboard Result Video](https://github.com/Yashborawake/linkedin-talent-hiring-analytics-powerbi/blob/main/linkdin_dashborad_result_video.mp4)**
+
+The video demonstrates the dashboard layout, KPI cards, interactive filters, hiring funnel, application sources, hiring demand, and salary analysis.
 
 ---
 

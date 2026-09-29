@@ -25,6 +25,30 @@ Watch the complete dashboard interaction and visual walkthrough:
 The video demonstrates the dashboard layout, KPI cards, interactive filters, hiring funnel, application sources, hiring demand, and salary analysis.
 
 ---
+### 📁 Dataset
+
+The dashboard was created using a simulated LinkedIn-style talent and hiring dataset.
+
+The dataset contains information related to:
+
+- Users
+- Job applications
+- Job postings
+- Hiring outcomes
+- Experience levels
+- Job roles
+- Industries
+- Work types
+- Salary
+- Application sources
+- User activity
+- Hiring stages
+
+📥 **[Download / View Dataset – LinkedIn Dashboards Dataset](https://github.com/Yashborawake/linkedin-talent-hiring-analytics-powerbi/blob/main/LinkedIn_Dashboards_Dataset.xlsx)**
+
+> **Data Disclaimer:** The dataset is simulated and created for educational, portfolio, and demonstration purposes. It does not represent actual LinkedIn user or company data.
+
+---
 
 ## 📌 Project Overview
 
